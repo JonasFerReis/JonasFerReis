@@ -1,7 +1,7 @@
 ### Olá! Me chamo Jonas Fernandes!
 <br/>
 <div>
-  <p>💻 - Área de foco: FrontEnd;<br/></p>
+  <p>💻 - FrontEnd;<br/></p>
   <p>🎓 - Cursando Sistemas de Informação na UFLA;<br/></p>
   <p>📚 - Estudando atualmente HTML, CSS e JavaScript;<br/></p>
 </div>
