@@ -3,15 +3,17 @@
 <div>
   <p>💻 - FrontEnd;<br/></p>
   <p>🎓 - Cursando Sistemas de Informação na UFLA;<br/></p>
-  <p>📚 - Estudando atualmente HTML, CSS e JavaScript;<br/></p>
+  <p>📚 - Estudando atualmente HTML, SCSS e JavaScript;<br/></p>
 </div>
 
 <div>
     <p>
       ✔ - Conhecimento em tecnologias:<br/>
-      &emsp; HTML: Básico;<br/>
-      &emsp; CSS: Básico;<br/>
-      &emsp; JavaScript: Básico;<br/>
+      &emsp; HTML: Intermediário;<br/>
+      &emsp; CSS: Intermediário;<br/>
+      &emsp; SCSS: Básico;<br/>
+      &emsp; JavaScript: Intermediário;<br/>
+      &emsp; React.js: Básico;<br/>
       &emsp; Java: Básico;<br/>
       &emsp; C++: Intermediário.<br/>
     </p>  
