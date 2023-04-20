@@ -8,7 +8,7 @@
 
 <div>
     <p>
-      ✔ - Conhecimento em tecnologias:<br/>
+      ✔ - Tecnologias:<br/>
       &emsp; HTML: Intermediário;<br/>
       &emsp; CSS: Intermediário;<br/>
       &emsp; SCSS: Básico;<br/>
