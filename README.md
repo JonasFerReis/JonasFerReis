@@ -1,4 +1,4 @@
-### Olá! Me chamo Jonas Fernandes!
+### Me chamo Jonas Fernandes!
 <br/>
 <div>
   <p>💻 - FrontEnd;<br/></p>
