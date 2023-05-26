@@ -9,13 +9,13 @@
 <div>
     <p>
       ✔ - Tecnologias:<br/>
-      &emsp; HTML: Intermediário;<br/>
-      &emsp; CSS: Intermediário;<br/>
-      &emsp; SCSS: Básico;<br/>
-      &emsp; JavaScript: Intermediário;<br/>
-      &emsp; React.js: Básico;<br/>
-      &emsp; Java: Básico;<br/>
-      &emsp; C++: Intermediário.<br/>
+      &emsp; HTML;<br/>
+      &emsp; CSS;<br/>
+      &emsp; SCSS;<br/>
+      &emsp; JavaScript;<br/>
+      &emsp; React.js;<br/>
+      &emsp; Java;<br/>
+      &emsp; C++.<br/>
     </p>  
 </div>
 
