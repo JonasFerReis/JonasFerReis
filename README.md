@@ -3,7 +3,7 @@
 <div>
   <p>💻 - FrontEnd;<br/></p>
   <p>🎓 - Cursando Sistemas de Informação na UFLA;<br/></p>
-  <p>📚 - Estudando atualmente HTML, SCSS e JavaScript;<br/></p>
+  <p>📚 - Estudando atualmente React.JS e Material-UI;<br/></p>
 </div>
 
 <div>
