@@ -1,21 +1,8 @@
-### Me chamo Jonas Fernandes!
+### Olá, me chamo Jonas!
 <br/>
 <div>
-  <p>💻 - FrontEnd;<br/></p>
-  <p>🎓 - Cursando Sistemas de Informação na UFLA;<br/></p>
-</div>
-
-<div>
-    <p>
-      ✔ - Tecnologias:<br/>
-      &emsp; HTML;<br/>
-      &emsp; CSS;<br/>
-      &emsp; SCSS;<br/>
-      &emsp; JavaScript;<br/>
-      &emsp; React.js;<br/>
-      &emsp; Java;<br/>
-      &emsp; C++.<br/>
-    </p>  
+  <p>💻 - Desenvolvedor front-end<br/></p>
+  <p>🎓 - Cursando Sistemas de Informação na UFLA<br/></p>
 </div>
 
 <div>
