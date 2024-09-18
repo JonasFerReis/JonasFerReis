@@ -1,10 +1,5 @@
 ### Olá, me chamo Jonas!
-<br/>
-<div>
-  <p>💻 - Desenvolvedor front-end<br/></p>
-  <p>🎓 - Cursando Sistemas de Informação na UFLA<br/></p>
-</div>
-
-<div>
-  <a href = "https://www.linkedin.com/in/jonas-fernandes-5b4681260/" target="_blank"><img width = "30px" src = "https://cdn.icon-icons.com/icons2/1584/PNG/512/3721674-linkedin_108053.png" alt = "LinkedIn"/></a>
-</div>
+*Desenvolvedor front-end*  
+- Cursando: Sistemas de Informação - UFLA
+- Competências: *HTML5, CSS, JavaScript, TypeScript, React.js, Material UI, Tailwind, Styled Components, Scss, Axios, Git, Scrum, Kanban.*
+- LinkedIn: https://www.linkedin.com/in/jonas-fernandes-5b4681260/
